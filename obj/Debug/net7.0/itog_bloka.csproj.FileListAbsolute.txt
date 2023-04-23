@@ -1,0 +1,15 @@
+C:\Kate\учеба\_ГБ\itog_bloka\bin\Debug\net7.0\itog_bloka.exe
+C:\Kate\учеба\_ГБ\itog_bloka\bin\Debug\net7.0\itog_bloka.deps.json
+C:\Kate\учеба\_ГБ\itog_bloka\bin\Debug\net7.0\itog_bloka.runtimeconfig.json
+C:\Kate\учеба\_ГБ\itog_bloka\bin\Debug\net7.0\itog_bloka.dll
+C:\Kate\учеба\_ГБ\itog_bloka\bin\Debug\net7.0\itog_bloka.pdb
+C:\Kate\учеба\_ГБ\itog_bloka\obj\Debug\net7.0\itog_bloka.csproj.AssemblyReference.cache
+C:\Kate\учеба\_ГБ\itog_bloka\obj\Debug\net7.0\itog_bloka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kate\учеба\_ГБ\itog_bloka\obj\Debug\net7.0\itog_bloka.AssemblyInfoInputs.cache
+C:\Kate\учеба\_ГБ\itog_bloka\obj\Debug\net7.0\itog_bloka.AssemblyInfo.cs
+C:\Kate\учеба\_ГБ\itog_bloka\obj\Debug\net7.0\itog_bloka.csproj.CoreCompileInputs.cache
+C:\Kate\учеба\_ГБ\itog_bloka\obj\Debug\net7.0\itog_bloka.dll
+C:\Kate\учеба\_ГБ\itog_bloka\obj\Debug\net7.0\refint\itog_bloka.dll
+C:\Kate\учеба\_ГБ\itog_bloka\obj\Debug\net7.0\itog_bloka.pdb
+C:\Kate\учеба\_ГБ\itog_bloka\obj\Debug\net7.0\itog_bloka.genruntimeconfig.cache
+C:\Kate\учеба\_ГБ\itog_bloka\obj\Debug\net7.0\ref\itog_bloka.dll
